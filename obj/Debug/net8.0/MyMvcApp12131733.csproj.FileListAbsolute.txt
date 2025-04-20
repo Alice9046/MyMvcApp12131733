@@ -278,3 +278,4 @@ C:\Users\raind\MyMvcApp12131733\obj\Debug\net8.0\refint\MyMvcApp12131733.dll
 C:\Users\raind\MyMvcApp12131733\obj\Debug\net8.0\MyMvcApp12131733.pdb
 C:\Users\raind\MyMvcApp12131733\obj\Debug\net8.0\MyMvcApp12131733.genruntimeconfig.cache
 C:\Users\raind\MyMvcApp12131733\obj\Debug\net8.0\ref\MyMvcApp12131733.dll
+C:\Users\raind\MyMvcApp12131733\obj\Debug\net8.0\MyMvcApp12131733.sourcelink.json
